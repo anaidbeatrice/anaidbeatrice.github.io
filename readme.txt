@@ -1,6 +1,6 @@
 Overview
 
-This is the desktop version of the personal portfolio website. It showcases an interactive 3D-style image carousel, an about section with profile and starry background, and a contact page with cleanly designed cards. All JavaScript has been separated into external files for clean structure and maintainability.
+This portfolio page showcases an interactive 3D-style image carousel, an about section with profile and starry background, and a contact page with cleanly designed cards.
 
 Pages & Features
 
